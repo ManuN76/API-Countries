@@ -1,0 +1,15 @@
+{
+  "name": "API Countries",
+  "description": "First API",
+  "author": "Manu.n",
+  "params": [
+    {
+      "name": "country",
+      "displayName": "Country",
+      "type": "string"
+    }
+  ],
+  "result": {
+    "type": { "kind": "array", "items": "string" }
+  }
+}
